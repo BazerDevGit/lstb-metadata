@@ -3,9 +3,12 @@
   "name": "Liquid Stake Token Bazer",
   "symbol": "LSTB",
   "website": "https://bazerwallet.com",
+  "logo": {
+    "url": "https://raw.githubusercontent.com/BazerDevGit/lstb-metadata/main/bazer.png"
+},
   "description": {
     "format": "markdown",
-    "image_url": "https://bazerbot.com/images/bazer.png",
+    "image_url": "https://raw.githubusercontent.com/BazerDevGit/lstb-metadata/main/bazer.png",
     "video_url": null,
     "content": [
       {
