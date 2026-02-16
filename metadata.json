@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "name": "Liquid Stake Token Bazer",
+  "symbol": "LSTB",
+  "website": "https://bazerwallet.com",
+  "description": {
+    "format": "markdown",
+    "image_url": "https://bazerbot.com/images/bazer.png",
+    "video_url": null,
+    "content": [
+      {
+        "language": "en",
+        "text": "LSTB is a liquid staking token representing delegated AXM."
+      },
+      {
+        "language": "ru",
+        "text": "LSTB — ликвидный стейкинг токен, представляющий делегированные AXM."
+      }
+    ]
+  },
+  "socials": {
+    "Telegram": "https://t.me/AXIOME_validator_channel"
+  },
+  "legal": null,
+  "audit": null,
+  "contacts": null
+}
